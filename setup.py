@@ -16,7 +16,7 @@ except ImportError:
 
 setup(
 	name='hfilesize',
-	version='0.1.0',
+	version='0.2.0',
 	license='GPLv3',
 	description='Human Readable File Sizes',
 	long_description=long_description,
